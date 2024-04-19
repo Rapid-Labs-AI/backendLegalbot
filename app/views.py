@@ -8,7 +8,6 @@ from langchain_core.prompts import PromptTemplate
 
 import os
 
-
 con = """
 Give long response related to only Federal Criminal Law of United States.
 You are a helpful attorney specialized in United States criminal law. 
